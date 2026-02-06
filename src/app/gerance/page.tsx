@@ -122,9 +122,19 @@ const GerancePage = () => {
           </div>
           <h2 className="text-3xl font-black text-gray-900 mb-4">Parlons de votre projet</h2>
           <p className="text-gray-500 mb-8">Nos experts sont à votre disposition pour vous conseiller sur la meilleure stratégie de gérance pour votre bien.</p>
-          <a href="tel:+221330000000" className="text-2xl font-black text-[#1d70b8] hover:text-[#ef811d] transition">
-          +221 77 609 91 80
+
+          <div className="flex flex-col">
+          <a href="tel:+221778886146" className="text-2xl font-black text-[#1d70b8] hover:text-[#ef811d] transition">
+          +221 77 888 61 46
           </a>
+          <a href="tel:+221775735791" className="text-2xl font-black text-[#1d70b8] hover:text-[#ef811d] transition">
+          +221 77 573 57 91
+          </a>
+          <a href="tel:+221779448424" className="text-2xl font-black text-[#1d70b8] hover:text-[#ef811d] transition">
+          +221 77 944 84 24
+          </a>
+          </div>
+          
         </div>
       </section>
     </div>

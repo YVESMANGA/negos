@@ -101,9 +101,15 @@ const ServicesPage = () => {
               </p>
             </div>
             <div className="lg:w-1/3 flex flex-col gap-4 w-full">
-              <a href="tel:+221330000000" className="w-full bg-[#1d70b8] text-white text-center py-5 rounded-2xl font-black text-lg shadow-lg hover:scale-105 transition">
-              +221 77 609 91 80
+              <a href="tel:+221778886146" className="w-full bg-[#1d70b8] text-white text-center py-5 rounded-2xl font-black text-lg shadow-lg hover:scale-105 transition">
+              +221 77 888 61 46
               </a>
+              <a href="tel:+221775735791" className="w-full bg-[#1d70b8] text-white text-center py-5 rounded-2xl font-black text-lg shadow-lg hover:scale-105 transition">
+              +221 77 573 57 91
+              </a>
+
+              <a href="tel:+221779448424" className="w-full bg-[#1d70b8] text-white text-center py-5 rounded-2xl font-black text-lg shadow-lg hover:scale-105 transition">
+              +221 77 944 84 24</a>
               <p className="text-center text-xs text-gray-400 font-bold uppercase">Ligne d'urgence prioritaire</p>
             </div>
           </div>
