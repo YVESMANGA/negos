@@ -3,7 +3,7 @@ export const immoData = [
   {
     id: 1,
     slug: "appartement-de-luxe-plateau",
-    title: "Appartement de Luxe - Plateau",
+    title: " Immeuble R+3",
     price: "297 000 000 FCFA",
     type: "Vente",
     location: "Wolf cite Alioune sow", // Ajout de la localisation
@@ -22,7 +22,7 @@ export const immoData = [
     title: "Villa Moderne - Almadies",
     price: "6 000 000 FCFA",
     type: "Location",
-    location: "Wolf cite Alioune sow",
+    location: "Almadies",
     description:
       "illa  a louer avec toute les meubles. R+2 sur 450 m2 Zone résidentiel Sécurité H24 Dont 5chambres +SDB 3 salons 1 bureau 1 toilette 3 cuisines Americaine 1 cuisine Africaine Piscine Garage pour 4 véhicules Loyer du mois a 6 millions Avec des papiers justificatifs.",
     area: "450m²",
