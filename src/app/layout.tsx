@@ -4,7 +4,6 @@ import "./globals.css";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 
-
 const geistSans = Geist({
   variable: "--font-geist-sans",
   subsets: ["latin"],
@@ -16,8 +15,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Sentech",
-  description: "Le meilleur de la Technologie",
+  title: "Negos Internationale",
+  description: "Immobilier & Vehicules",
 };
 
 export default function RootLayout({
