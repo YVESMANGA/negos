@@ -108,7 +108,7 @@ export const autoData = [
     km: "12 000 km",
     media: {
       images: ["/hp.jpeg", "/hp2.jpeg", "/hp3.jpeg", "/hp4.jpeg", "/hp5.jpeg"],
-      videos: [],
+      videos: "",
     },
   },
 ];
