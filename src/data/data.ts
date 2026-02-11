@@ -96,4 +96,19 @@ export const autoData = [
       videos: "/videov1.mp4",
     },
   },
+  {
+    id: 2,
+    slug: "hyundai-palissade-2020",
+    title: "Hyundai Palissade 2020",
+    price: "18 500 000 FCFA",
+    type: "Vente",
+    description:
+      "AUTOMATIQUE ESSENCE INTERIEUR TISSU GRAND ECRAN CAMÉRA ET RADAR DE RECUL 8 PLACES CYLINDRES CLIMATISATION BIZONE FULL OPTIONS DEJA DÉDOUANÉ *KILOMETRAGE:120.000 miles",
+    fuel: "Diesel",
+    km: "12 000 km",
+    media: {
+      images: ["/hp.jpeg", "/hp2.jpeg", "/hp3.jpeg", "/hp4.jpeg", "/hp5.jpeg"],
+      videos: [],
+    },
+  },
 ];
