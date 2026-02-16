@@ -78,6 +78,57 @@ export const immoData = [
       videos: ["/video3.mp4"],
     },
   },
+
+  {
+    id: 6,
+    slug: "villa-moderne-somone",
+    title: "Villa Moderne - Somone",
+    price: "400 000 000 FCFA",
+    type: "Vente",
+    location: "Somone quartier aigrettes à 6mnt à pied de la lagune",
+    description:
+      "Villa de 400m2 battit sur un terrain de 600m2 , Comprenant 5 chambres dont une grande suite parentale, 5 salles de bains, 2 cuisines entièrement équipées, une dépendance domestique, 1 toilette visiteur, 2 salons, piscine et jacuzzi, machine à laver, 2 machines à café Nespresso et Dolce Gusto, lave vaisselle .",
+    area: "600m²",
+    rooms: 14,
+    media: {
+      images: ["/somone.jpeg","/somone2.jpeg","/somone3.jpeg","/somone4.jpeg","/somone5.jpeg",],
+      videos: ["/videosomone.mp4"],
+    },
+  },
+
+  {
+    id: 7,
+    slug: "villa-moderne-somone",
+    title: "Villa Moderne - Somone",
+    price: "2 200 000 FCFA",
+    type: "Location",
+    location: "Somone quartier aigrettes à 6mnt à pied de la lagune",
+    description:
+      "Location le mois. Villa de 400m2 battit sur un terrain de 600m2 , Comprenant 5 chambres dont une grande suite parentale, 5 salles de bains, 2 cuisines entièrement équipées, une dépendance domestique, 1 toilette visiteur, 2 salons, piscine et jacuzzi, machine à laver, 2 machines à café Nespresso et Dolce Gusto, lave vaisselle .",
+    area: "600m²",
+    rooms: 14,
+    media: {
+      images: ["/somone.jpeg","/somone2.jpeg","/somone3.jpeg","/somone4.jpeg","/somone5.jpeg",],
+      videos: ["/videosomone.mp4"],
+    },
+  },
+
+  {
+    id: 8,
+    slug: "villa-moderne-somone",
+    title: "Villa Moderne - Somone",
+    price: "175 000 FCFA",
+    type: "Location",
+    location: "Somone quartier aigrettes à 6mnt à pied de la lagune",
+    description:
+      "Location la nuitee. Villa de 400m2 battit sur un terrain de 600m2 , Comprenant 5 chambres dont une grande suite parentale, 5 salles de bains, 2 cuisines entièrement équipées, une dépendance domestique, 1 toilette visiteur, 2 salons, piscine et jacuzzi, machine à laver, 2 machines à café Nespresso et Dolce Gusto, lave vaisselle .",
+    area: "600m²",
+    rooms: 14,
+    media: {
+      images: ["/somone.jpeg","/somone2.jpeg","/somone3.jpeg","/somone4.jpeg","/somone5.jpeg",],
+      videos: ["/videosomone.mp4"],
+    },
+  },
 ];
 
 // Données Automobiles
