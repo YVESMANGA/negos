@@ -130,7 +130,7 @@ const Footer = () => {
                 <div className="flex flex-col">
                   <span>+221 77 888 61 46</span>
                   <span>+221 77 573 57 91</span>
-                  <span>+221 77 944 84 24</span>
+                  <span>+221 76 944 84 24</span>
                 </div>
               </li>
               <li className="flex items-center gap-3">

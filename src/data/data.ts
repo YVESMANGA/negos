@@ -3,7 +3,7 @@ export const immoData = [
   {
     id: 1,
     slug: "appartement-de-luxe-plateau",
-    title: " Immeuble R+3",
+    title: " Immeuble Standing R+3",
     price: "297 000 000 FCFA",
     type: "Vente",
     location: "Wolf cite Alioune sow", // Ajout de la localisation
@@ -28,7 +28,7 @@ export const immoData = [
     area: "450m²",
     rooms: 14,
     media: {
-      images: ["/i4.png"],
+      images: ["/i4.jpg"],
       videos: ["/videov2.mp4", "/videov21.mp4", "/videov22.mp4"],
     },
   },
@@ -36,7 +36,7 @@ export const immoData = [
   {
     id: 3,
     slug: "appartement-f4",
-    title: "Appartement f4 - Corniche des mamelles",
+    title: "Appartement Standing f4 - Corniche des mamelles",
     price: "800.000 FCFA",
     type: "Location",
     location: "Corniche des mamelles",
@@ -51,7 +51,7 @@ export const immoData = [
   {
     id: 4,
     slug: "immeuble-studio",
-    title: "Immeuble Studio 55.000 FCFA la nuitee",
+    title: "Immeuble Studio Standing 55.000 FCFA la nuitee",
     price: "55.000 FCFA",
     type: "Location",
     location: "Corniche des mamelles",
@@ -66,7 +66,7 @@ export const immoData = [
   {
     id: 5,
     slug: "immeuble-studio",
-    title: "Immeuble Studio ",
+    title: "Immeuble Studio Standing ",
     price: "250.000.000 FCFA",
     type: "Vente",
     location: "Corniche des mamelles",
@@ -127,6 +127,38 @@ export const immoData = [
     media: {
       images: ["/somone.jpeg","/somone2.jpeg","/somone3.jpeg","/somone4.jpeg","/somone5.jpeg",],
       videos: ["/videosomone.mp4"],
+    },
+  },
+  {
+    id: 9,
+    slug: "villa-grand-mbao",
+    title: "Villa Moderne - Grand Mbao",
+    price: "325 000 FCFA",
+    type: "Location",
+    location: "Grand Mbao à  la cité Baobab juste à  l'entrée",
+    description:
+      "Une belle  villa basse située à grand Mbao à  la cité Baobab juste à  l'entrée,  comprenant  4 chambres,  débarras,  3 patios, cuisine, et une   grande terrasse",
+    area: "",
+    rooms: 8,
+    media: {
+      images: ["/vgm.jpeg","/vgm2.jpeg"],
+      videos: [],
+    },
+  },
+  {
+    id: 10,
+    slug: "studio-mbackyou-faye",
+    title: "Studio Moderne - Mbackiou Faye",
+    price: "350 000 FCFA",
+    type: "Location",
+    location: "Mamelles Mbackiou Faye",
+    description:
+      "Studio avec cuisine  équipée tout  neuf jamais habité aux mamelles mbackiou Faye au rdc",
+    area: "",
+    rooms: 2,
+    media: {
+      images: ["/mf2.jpg","/mf.jpg",],
+      videos: ["/smf.mp4", "/smf2.mp4" ],
     },
   },
 ];
