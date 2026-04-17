@@ -161,6 +161,38 @@ export const immoData = [
       videos: ["/smf.mp4", "/smf2.mp4" ],
     },
   },
+  {
+    id: 11,
+    slug: "appart-mbackyou-faye",
+    title: "3 chambres salon cuisine - Mbackiou Faye",
+    price: "800 000 FCFA",
+    type: "Location",
+    location: "Mamelles Mbackiou Faye",
+    description:
+      "A louer 3chambres salon cuisine  meublé  : pour habitation  longue durée 800.000 le mois, Pour  location en meublé  par jour s'est 60.000 f /jour et le mois à 1.800.000f",
+    area: "",
+    rooms: 4,
+    media: {
+      images: ["/mmf.jpeg","/mmf2.jpeg","/mmf3.jpeg","/mmf4.jpeg","/mmf5.jpeg"],
+      videos: [],
+    },
+  },
+  {
+    id: 12,
+    slug: "sicap-foire",
+    title: "Sicap foire villa",
+    price: "1 000 000 FCFA",
+    type: "Location",
+    location: "Mamelles Mbackiou Faye",
+    description:
+      "Sicap foire villa R+1 à louer composée de 5chambres 2salons cuisine sémi équipé balcon toilettes et paciau",
+    area: "",
+    rooms: 8,
+    media: {
+      images: ["/sf.jpeg"],
+      videos: ["/sf2.mp4","/sf3.mp4","/sf4.mp4"],
+    },
+  },
 ];
 
 // Données Automobiles
