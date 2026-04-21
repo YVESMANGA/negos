@@ -193,6 +193,38 @@ export const immoData = [
       videos: ["/sf2.mp4","/sf3.mp4","/sf4.mp4"],
     },
   },
+  {
+    id: 13,
+    slug: "aliou-sow",
+    title: "Cité Aliou sow golf non loin du BRT Villa R+1",
+    price: "280 000 000 FCFA",
+    type: "Vente",
+    location: "Cité Aliou sow golf",
+    description:
+      "Cité Aliou sow golf non loin du BRT Villa R+1 à vendre en bordure de route  sur une surface de 287m² titre foncier individuel composé de :*Rez-de-chaussée chambre salle de bains salon cuisine toilette visiteur piscine et garage *1er étage 3chambres balcon dont chaque chambre avec salle d'eau",
+    area: "",
+    rooms: 5,
+    media: {
+      images: ["/cas.jpeg"],
+      videos: ["/cas2.mp4","/cas3.mp4"],
+    },
+  },
+  {
+    id: 14,
+    slug: "cite-sonatel",
+    title: "Cite Sonatel derriere Hopital Samu",
+    price: "300 000 000 FCFA",
+    type: "Vente",
+    location: "Cite Sonatel",
+    description:
+      "Villa 250 METTRE CARRÉ CITÉ SONATEL 1 DERRIÈRE L HOPITAL SAMU MUNICIPAL EN R+1 COMPOSÉ DE 5 CHAMBRES SALON GARAGE ET TERRASSE",
+    area: "",
+    rooms: 5,
+    media: {
+      images: ["/vcn2.jpeg"],
+      videos: ["/vcn.mp4"],
+    },
+  },
 ];
 
 // Données Automobiles
