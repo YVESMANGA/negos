@@ -225,6 +225,22 @@ export const immoData = [
       videos: ["/vcn.mp4"],
     },
   },
+  {
+    id: 15,
+    slug: "cite-keur-gorgui-dn",
+    title: "Villa Cité Keur Gorgui ",
+    price: "75 000 000 FCFA",
+    type: "Vente",
+    location: "Cite Keur Gorgui",
+    description:
+      "Villa - TF, 5ème étage, 2 Chambres salon cuisine toilettes.",
+    area: "",
+    rooms: 12,
+    media: {
+      images: ["/ckg.jpeg", "/ckg2.jpeg","/ckg3.jpeg", "/ckg4.jpeg","/ckg5.jpeg","/ckg7.jpeg", "/ckg8.jpeg","/ckg9.jpeg","/ckg11.jpeg", "/ckg12.jpeg","/ckg13.jpeg"],
+      videos: [],
+    },
+  },
 ];
 
 // Données Automobiles
