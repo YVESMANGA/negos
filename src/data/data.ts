@@ -274,4 +274,20 @@ export const autoData = [
       videos: "",
     },
   },
+
+  {
+    id: 3,
+    slug: "ford-explorer-xlt",
+    title: "Ford Explorer Xlt 2017",
+    price: "12 500 000 FCFA",
+    type: "Vente",
+    description:
+      "Marque : FORD Modèle : EXPLORER XLT Année :  2017 Carburant: ESSENCE Version :4-4 6Cylindre Boite vitesse : Automatique  Details : , 7 places ,, clé, intérieur Cuire,,ouverture et fermeture mâle électrique, ceinture électrique, climatisation Bizone, commande au volant, mode eco , Bluetooth, Aux,  impeccable très confortable, parfait État intérieur comme extérieur , très bien entretenu, excellent Moteur  Mutation récente *From USA*",
+    fuel: "Essence",
+    km: "12 000 km",
+    media: {
+      images: ["/ford.jpeg", "/ford2.jpeg", "/ford3.jpeg", "/ford4.jpeg", "/ford5.jpeg", "/ford6.jpeg", "/ford7.jpeg", "/ford8.jpeg", "/ford9.jpeg"],
+      videos: "",
+    },
+  },
 ];
